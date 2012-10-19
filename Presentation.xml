@@ -12,9 +12,9 @@
   <Description>
     This presentation provides a detailed look at Windows Azure SQL Data Sync, including architecture, synchronization scenarios, and Best Practices for applying Data Sync in your Azure environment.
   </Description>
-  <Document RemoveSpeakerNotes="true">.\SQLDataSync.pptx</Document>
+  <Document RemoveSpeakerNotes="false">.\SQLDataSync.pptx</Document>
   <Title>Windows Azure SQL Data Sync</Title>
-  <Version>1.0.1</Version>
+  <Version>1.0.2</Version>
   <SlideThumbnail>1</SlideThumbnail>
   <CustomProperties>
     <Property Name="Filter" Value="Foundation" />
